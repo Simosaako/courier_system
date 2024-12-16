@@ -1,2 +1,1 @@
-# courier_system
-beautiful
+For the new update please use "composer clearcache; then composer dump -o "
